@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  font-size: 30px;
+  background: rgb(149, 194, 215)
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo-text {
+  background: white;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 37px;
+}
+
+.thumbnail-list {
+  list-style: none;
+}
